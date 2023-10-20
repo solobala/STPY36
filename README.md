@@ -5,3 +5,4 @@
 * ДЗ 2. Визуализация данных на примере World Population Dataset 2022 https://github.com/solobala/STPY36/blob/main/STPY36_DZ2_1.ipynb
 * ДЗ 3. Случайные события и случайные величины ( игровые автоматы) https://github.com/solobala/STPY36/blob/main/STPY36_DZ3_3.ipynb
 * ДЗ 4. Корреляция и корреляционные анализ ( смертностьи данные о жесткости воды) https://github.com/solobala/STPY36/blob/main/STPY36_DZ4.ipynb
+* 
