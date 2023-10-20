@@ -6,4 +6,5 @@
 * ДЗ 3. Случайные события и случайные величины (игровые автоматы) https://github.com/solobala/STPY36/blob/main/STPY36_DZ3_3.ipynb
 * ДЗ 4. Корреляция и корреляционные анализ (смертность и данные о жесткости воды) https://github.com/solobala/STPY36/blob/main/STPY36_DZ4.ipynb
 * ДЗ 5. Задачи классификации (LDA) и кластеризации (KMEANS) на примере датасета ирисов https://github.com/solobala/STPY36/blob/main/STPY36_DZ5.ipynb
+* ДЗ 6. Доверительные интевалы и A/B тестирование https://github.com/solobala/STPY36/blob/main/STPY36_DZ6.ipynb
 * 
